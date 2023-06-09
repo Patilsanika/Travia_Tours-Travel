@@ -86,6 +86,6 @@ User can see all the tour packages and also can book the seats according to budg
 
 * Contact Us Page
 
- ![Screenshot 2023-06-09 221010](https://github.com/Patilsanika/Travia_Tours-Travel/assets/86789929/59c9afa3-fb26-4db1-a76c-0e2c49363d26)
+  ![Screenshot 2023-06-09 221010](https://github.com/Patilsanika/Travia_Tours-Travel/assets/86789929/59c9afa3-fb26-4db1-a76c-0e2c49363d26)
 
 Thank you 😁
