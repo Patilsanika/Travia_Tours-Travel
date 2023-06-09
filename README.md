@@ -4,7 +4,6 @@ TRAVIA is the website which provides tours and travel services.The purpose of we
 
 ![Screenshot 2023-06-09 215158](https://github.com/Patilsanika/Travia_Tours-Travel/assets/86789929/8a904099-0bdd-4b31-b473-04bfec4297c5)
 
-
 Demonstrated different HTTP Methods, Web scraping, Integration of web services, Web token and also successfully tested the website using selenium tool
 
 # Developed with
@@ -20,24 +19,25 @@ Demonstrated different HTTP Methods, Web scraping, Integration of web services, 
 # Helpers
 VS Code (editor), Mongoose (npm package).
 
-## Features includes :muscle: 
+## Features includes :
 
 User can see all the tour packages and also can book the seats according to budget and have provision of cancel booking, managing basic information about users details, weather forecasting service.
 
 
 # Screenshots :camera:
+
 * Landing page /Home page
 
 ![Screenshot 2023-06-09 220222](https://github.com/Patilsanika/Travia_Tours-Travel/assets/86789929/838547ed-8680-4391-b0c9-b4b2b4b01244)
 
 * Signup and Signin page
 
-  signup
+  Signup
   
   ![Screenshot 2023-06-09 220336](https://github.com/Patilsanika/Travia_Tours-Travel/assets/86789929/3c6a6476-3dae-4428-a8ed-9db36c65c452)
 
 
-  signin
+  Signin
  
   ![Screenshot 2023-06-09 220422](https://github.com/Patilsanika/Travia_Tours-Travel/assets/86789929/48dc3e0e-e935-4bd9-a4be-ecb688646ff4)
 
@@ -81,6 +81,7 @@ User can see all the tour packages and also can book the seats according to budg
 * About us page
 
   ![Screenshot 2023-06-09 220922](https://github.com/Patilsanika/Travia_Tours-Travel/assets/86789929/be6637f9-ed42-46dd-afd7-9148425e14ed)
+  
   ![Screenshot 2023-06-09 220945](https://github.com/Patilsanika/Travia_Tours-Travel/assets/86789929/cd344e6f-7fef-4fad-a284-aa67a8a03892)
 
 * Contact Us Page
